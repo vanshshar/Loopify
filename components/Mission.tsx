@@ -50,7 +50,7 @@ const Mission = () => {
             variants={itemVariants}
             className="text-xl text-center text-gray-300 mb-12 max-w-2xl mx-auto"
           >
-            EcoGadget is revolutionizing electronics use. We connect, repair, and recycle to reduce e-waste and promote sustainability.
+            Loopify is revolutionizing electronics use. We connect, repair, and recycle to reduce e-waste and promote sustainability.
           </motion.p>
           
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
